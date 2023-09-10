@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/studyapp/static/css/main.b8719ecb.css",
+    "main.js": "/studyapp/static/js/main.a59a77cd.js",
+    "static/media/signup.png": "/studyapp/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/studyapp/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/studyapp/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/studyapp/static/media/Logo.fd896773ef070a122541fd8722efa10f.svg",
+    "index.html": "/studyapp/index.html",
+    "main.b8719ecb.css.map": "/studyapp/static/css/main.b8719ecb.css.map",
+    "main.a59a77cd.js.map": "/studyapp/static/js/main.a59a77cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8719ecb.css",
+    "static/js/main.a59a77cd.js"
+  ]
+}
